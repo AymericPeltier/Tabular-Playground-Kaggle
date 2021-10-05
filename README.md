@@ -10,6 +10,8 @@ It also allows me to experiment on various type of data & dataset size.
 
 ## TPS_July: Time Series EDA
 
+<img src="https://cdn.pixabay.com/photo/2017/03/29/15/18/tianjin-2185510__340.jpg" alt="Image" width="450" height="450">
+
 [Link to Kaggle's competition page](https://www.kaggle.com/c/tabular-playground-series-jul-2021/data)
 
 ### Task:
@@ -21,10 +23,12 @@ The three target values to you to predict are: target_carbon_monoxide, target_be
 ### My work
 
 During this TPS, I focused on EDA & some features engineering methods that are valuable when working on time series.
-[Link to my work on GitHub]()
-[Link to my work on Kaggle](https://www.kaggle.com/aymericpeltier/eda-feature-selection-late-post)
+* [Link to my work on GitHub]()
+* [Link to my work on Kaggle](https://www.kaggle.com/aymericpeltier/eda-feature-selection-late-post)
 
 ## TPS_August: Ensembling & Optuna
+
+<img src="https://cdn.pixabay.com/photo/2014/02/01/18/01/money-256319__340.jpg" alt="Image" width="450" height="450">
 
 [Link to Kaggle's competition page](https://www.kaggle.com/c/tabular-playground-series-aug-2021/data)
 
@@ -38,10 +42,12 @@ The dataset is used for this competition is synthetic, but based on a real datas
 
 During this TPS, I got used to hyperparameters tuning with Optuna & ensembling some models (XGboost, Catboost, LightGBM, Neural Network)
 
-[Link to my work on GitHub]()
-[Link to my work on Kaggle](https://www.kaggle.com/aymericpeltier/ensembling-xgb-lgb-cat-nn)
+* [Link to my work on GitHub]()
+* [Link to my work on Kaggle](https://www.kaggle.com/aymericpeltier/ensembling-xgb-lgb-cat-nn)
 
 ## TPS_Septebmer: Stacking & Optuna
+
+<img src="https://cdn.pixabay.com/photo/2017/09/23/17/16/contract-2779509__340.png" alt="Image" width="450" height="450">
 
 [Link to Kaggle's competition page](https://www.kaggle.com/c/tabular-playground-series-sep-2021/data)
 
@@ -54,5 +60,5 @@ TThe dataset is used for this competition is synthetic, but based on a real data
 ### My work
 
 During this TPS, I focused on Stacking different models & reused optuna with some additional properties to optimize how fast I could tune the models.
-[Link to my work on GitHub]() not yet posted
-[Link to my work on Kaggle]() not yet posted
+* [Link to my work on GitHub]() not yet posted
+* [Link to my work on Kaggle]() not yet posted
